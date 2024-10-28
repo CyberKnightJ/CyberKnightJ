@@ -7,7 +7,8 @@ I am a soon to be graduate persuing my Bachelors degreee in Information Technolo
 
 ## Certifications:
 Google Cybersecurity Certification <br>
-CompTIA Security+ Certification
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat">
+
 ## Projects:
 
 | Skill                      | Associated project   |   
