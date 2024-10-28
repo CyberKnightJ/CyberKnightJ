@@ -48,8 +48,10 @@ I am a soon-to-be graduate pursuing a Bachelor’s degree in Information Technol
 
 ### Cloud
 <div>
-  <img src="https://img.shields.io/badge/Vultr-darkgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Vultr-darkgreen?style=for-the-badge" alt="Vultr icon">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure icon">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform Badge">
+
 
 </div>
 
@@ -61,9 +63,6 @@ I am a soon-to-be graduate pursuing a Bachelor’s degree in Information Technol
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-  
-
-
 
 </div>
 
