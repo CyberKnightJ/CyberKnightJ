@@ -26,6 +26,11 @@ I am a soon to be graduate persuing my Bachelors degree in Information Technolog
 | Row 2, Cell 1              | Row 2, Cell 2        | 
 | Row 3, Cell 1              | Row 3, Cell 2        |
 
+## Projects:
+- Active Directory
+- SOC lab
+- 
+
 ## Tools
 
 ### Network
@@ -66,9 +71,6 @@ I am a soon to be graduate persuing my Bachelors degree in Information Technolog
 
  </div>
 
-## Projects:
--Active Directory
--SOC lab
 
 
 
