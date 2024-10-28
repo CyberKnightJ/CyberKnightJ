@@ -29,7 +29,7 @@ I am a soon to be graduate persuing my Bachelors degree in Information Technolog
 ## Projects:
 - Active Directory
 - SOC lab
-- 
+
 
 ## Tools
 
