@@ -6,8 +6,9 @@
 I am a soon to be graduate persuing my Bachelors degreee in Information Technology. My journey in this field has led ot me develop a passion in cybersecurity, and I am now eager to trasition into this field.
 
 ## Certifications:
-Google Cybersecurity Certification <br>
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat">
+<img src="https://img.shields.io/badge/Google%20Cybersecurity-green?style=flat"><br>
+<img src="https://img.shields.io/badge/CompTIA%20Security%2B-red?style=flat">
+
 
 ## Projects:
 
