@@ -8,7 +8,7 @@
 
 
 ## Introduction:
-Hello! I am a soon-to-be graduate pursuing a Bachelor’s degree in Information Technology. Throughout my academic journey, I have developed a strong passion for cybersecurity. As I prepare to transition into this exciting field, I am eager to apply my knowledge and skills to protect systems and data from evolving threats. I am committed to continuous learning and growth in cybersecurity, and I look forward to contributing to projects that enhance security and resilience.
+I am a soon-to-be graduate pursuing a Bachelor’s degree in Information Technology. Throughout my academic journey, I have developed a strong passion for cybersecurity. As I prepare to transition into this exciting field, I am eager to apply my knowledge and skills to protect systems and data from evolving threats. I am committed to continuous learning and growth in cybersecurity, and I look forward to contributing to projects that enhance security and resilience.
 
 ## Certifications:
 <div>
