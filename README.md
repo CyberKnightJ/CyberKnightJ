@@ -42,7 +42,7 @@ I am a soon-to-be graduate pursuing a Bachelor’s degree in Information Technol
 ### SIEM
 <div>
   <img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk&logoColor=white">
-  <img src="https://img.shields.io/badge/ELK%20Stack-%230E3F6B?style=for-the-badge&logo=elastic&logoColor=white">
+  <img src="https://img.shields.io/badge/Elastic-%230E3F6B?style=for-the-badge&logo=elastic&logoColor=white">
 
 </div>
 
