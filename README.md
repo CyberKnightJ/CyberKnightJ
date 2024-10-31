@@ -18,13 +18,15 @@ I am a soon-to-be graduate pursuing a Bachelor’s degree in Information Technol
 
 </div>
 
-## Skills:
+<!-- ## Skills:
 
 | Skill                      | Associated project   |   
 |----------------------------|----------------------|
 | Row 1, Cell 1              | Row 1, Cell 2        | 
 | Row 2, Cell 1              | Row 2, Cell 2        | 
 | Row 3, Cell 1              | Row 3, Cell 2        |
+
+-->
 
 ## Projects:
 - <a href="https://github.com/CyberKnightJ/SOC-lab">SOC lab</a>
