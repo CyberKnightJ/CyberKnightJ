@@ -27,8 +27,7 @@ I am a soon-to-be graduate pursuing a Bachelor’s degree in Information Technol
 | Row 3, Cell 1              | Row 3, Cell 2        |
 
 ## Projects:
-- Active Directory
-- SOC lab
+- <a href="https://github.com/CyberKnightJ/SOC-lab">SOC lab</a>
 
 
 ## Tools
