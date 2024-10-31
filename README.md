@@ -10,11 +10,11 @@
 ## Introduction:
 I am a soon-to-be graduate pursuing a Bachelor’s degree in Information Technology. Throughout my academic journey, I have developed a strong passion for cybersecurity. As I prepare to transition into this exciting field, I am eager to apply my knowledge and skills to protect systems and data from evolving threats. I am committed to continuous learning and growth in cybersecurity, and I look forward to contributing to projects that enhance security and resilience.
 
-## Certifications:
+## Certifications (Click to view):
 <div>
   
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-D93D25?style=for-the-badge&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-ED6A3B?style=for-the-badge&logo=comptia&logoColor=white">
+  <a href="https://i.imgur.com/rTVwIEa.png" target="_blank"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-D93D25?style=for-the-badge&logo=google&logoColor=white"></a>
+  <a href="https://i.imgur.com/M9cku4Y.png" target="_blank"><img src="https://img.shields.io/badge/CompTIA%20Security%2B-ED6A3B?style=for-the-badge&logo=comptia&logoColor=white"></a>
 
 </div>
 
